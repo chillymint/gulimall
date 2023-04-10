@@ -3,6 +3,7 @@
  *
  * https://www.renren.io
  * tomcat==>   http://localhost:8080/renren-fast/
+ * web ==> http://localhost:8001/    需要前后端项目一起启动前台才有验证码
  * 版权所有，侵权必究！
  */
 
